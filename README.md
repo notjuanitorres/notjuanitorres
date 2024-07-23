@@ -18,6 +18,9 @@
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/355550595794337793?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/355550595794337793)
+
+--- 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjuanitorres&hide=javascript,css,scss,html&theme=tokyonight)
 
 
