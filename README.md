@@ -18,9 +18,12 @@
 
 ---
 
+
+<h3>Cualquier cosa, siempre estoy en Discord:</h3>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/355550595794337793)](https://discord.com/users/355550595794337793)
+
 
 --- 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjuanitorres&hide=javascript,css,scss,html&theme=tokyonight)
-
 
