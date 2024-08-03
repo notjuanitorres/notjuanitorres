@@ -25,5 +25,5 @@
 
 
 --- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjuanitorres&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjuanitorres&hide=css,scss,html&theme=tokyonight)
 
