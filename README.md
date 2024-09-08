@@ -12,7 +12,7 @@
 
 - :man_teacher: Hago lo que puedo para ayudar en diferentes materias de la UNLP y recibirme.
   
-- :books: Soy ayudante/perjudicante en: <b>Ingeniería de Software 1, Ingeniería de Software 2, Fundamentos de Organización de Datos, Diseño de Bases de Datos, Taller de Programación, Conceptos de Bases de Datos, Bases de Datos, Organización de Computadoras y Arquitectura de Computadoras. </b> También me podés encontrar en el ingreso.
+- :books: Soy ayudante/perjudicante en: <b>Ingeniería de Software 1, Ingeniería de Software 2, Fundamentos de Organización de Datos, Diseño de Bases de Datos, Taller de Programación, Conceptos de Bases de Datos, Bases de Datos, Organización de Computadoras, Arquitectura de Computadoras y Matemática 4. </b> También me podés encontrar en el ingreso.
   
 - :mag: Investigo sobre <b>gobernanza y calidad de datos.</b>
 
