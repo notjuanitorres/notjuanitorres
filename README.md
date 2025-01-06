@@ -19,7 +19,7 @@
 ---
 
 
-<h3>Cualquier cosa, siempre estoy en Discord:</h3>
+<h3>Ante cualquier cosa, siempre estoy en Discord:</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/355550595794337793)](https://discord.com/users/355550595794337793)
 
