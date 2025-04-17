@@ -6,7 +6,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lqdm82bnJhZ3hsOHM2bmJ2YmlvZ2V1aG05amowa2J6M3kyNjN4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqE3jbSQQR6x9g19Kj/giphy.gif" width="600" height="300"/>
 </div>
 
-## Soy ATIC y actualmente me encuentro cursando el 4to año de Licenciatura en Sistemas.  
+## Soy ATIC y actualmente me encuentro cursando la Maestría en Ingeniería de Software.  
 
 ---
 
@@ -14,7 +14,7 @@
   
 - :books: Soy ayudante/perjudicante en: <b>Ingeniería de Software 1, Ingeniería de Software 2, Fundamentos de Organización de Datos, Diseño de Bases de Datos, Taller de Programación, Conceptos de Bases de Datos, Bases de Datos, Organización de Computadoras, Arquitectura de Computadoras y Matemática 4. </b> También me podés encontrar en el ingreso.
   
-- :mag: Investigo sobre <b>gobernanza y calidad de datos.</b>
+- :mag: Investigo sobre <b>calidad de software.</b>
 
 ---
 
