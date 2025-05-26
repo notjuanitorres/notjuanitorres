@@ -1,4 +1,4 @@
-## Hola, soy Juani y el GIF representa mi mood permanente 👋
+## Hi 👋 I'm Juani and this GIF represents my mood
 
 ---
 
@@ -6,24 +6,41 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3lqdm82bnJhZ3hsOHM2bmJ2YmlvZ2V1aG05amowa2J6M3kyNjN4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqE3jbSQQR6x9g19Kj/giphy.gif" width="600" height="300"/>
 </div>
 
-## Soy ATIC y actualmente me encuentro cursando la Maestría en Ingeniería de Software.  
+🎓 I'm a university lecturer and researcher in Computer Science based in Argentina. I hold an **Associate Degree in Information and Communication Technologies** and I'm currently completing a **Bachelor’s degree in Computer Systems** and a **Master’s degree in Software Engineering**.
+
+🧑‍🏫 I'm a **Teaching Assistant** in several undergraduate courses and currently serve as a **Lecturer** in one of them. The subjects I've been involved in include:
+- Software Engineering I & II  
+- Fundamentals of Data Organization  
+- Database Design  
+- Programming Workshop  
+- Introduction to Databases  
+- Database Systems  
+- Computer Organization  
+- Computer Architecture  
+- Entry-level courses for new students  
+
+These experiences have allowed me to grow as an educator, strengthen my technical expertise, and contribute to collaborative academic planning.
+
+🔍 I research topics related to **software quality**, with a current focus on applying quality frameworks to artificial intelligence systems and understanding how international standards shape responsible software development.
 
 ---
 
-- :man_teacher: Hago lo que puedo para ayudar en diferentes materias de la UNLP y recibirme.
-  
-- :books: Soy ayudante/perjudicante en: <b>Ingeniería de Software 1, Ingeniería de Software 2, Fundamentos de Organización de Datos, Diseño de Bases de Datos, Taller de Programación, Conceptos de Bases de Datos, Bases de Datos, Organización de Computadoras, Arquitectura de Computadoras y Matemática 4. </b> También me podés encontrar en el ingreso.
-  
-- :mag: Investigo sobre <b>calidad de software.</b>
+## 🧠 Interests
+
+- Software Quality and Process Improvement  
+- Agile Project Management (Scrum)  
+- AI Governance and Ethics  
+- Education and Digital Inclusion
 
 ---
 
-<h3>Ante cualquier cosa, siempre estoy en Discord:</h3>
+## 📫 Let's connect
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/355550595794337793)](https://discord.com/users/355550595794337793)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juanitorreslp/)  
+- 🧪 [Google Scholar](https://scholar.google.com/citations?hl=en&user=HSV236oAAAAJ)  
+- ✉️ Reach out if you'd like to collaborate on research, educational initiatives, or Agile projects.
 
+---
 
---- 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notjuanitorres&hide=css,scss,html&theme=tokyonight)
+> 🚀 *Committed to building high-quality, ethical, and impactful software through research, collaboration, and continuous learning.*
 
