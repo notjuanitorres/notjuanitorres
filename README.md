@@ -15,8 +15,6 @@
 - Programming Workshop  
 - Introduction to Databases  
 - Database Systems  
-- Computer Organization  
-- Computer Architecture  
 - Entry-level courses for new students  
 
 These experiences have allowed me to grow as an educator, strengthen my technical expertise, and contribute to collaborative academic planning.
